@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/TIMCoin/static/js/main.564cba48.chunk.js",
+    "main.js.map": "/TIMCoin/static/js/main.564cba48.chunk.js.map",
+    "runtime~main.js": "/TIMCoin/static/js/runtime~main.4882c7fe.js",
+    "runtime~main.js.map": "/TIMCoin/static/js/runtime~main.4882c7fe.js.map",
+    "static/js/2.c41b3d90.chunk.js": "/TIMCoin/static/js/2.c41b3d90.chunk.js",
+    "static/js/2.c41b3d90.chunk.js.map": "/TIMCoin/static/js/2.c41b3d90.chunk.js.map",
+    "index.html": "/TIMCoin/index.html",
+    "precache-manifest.b8e69884cd7876f716399b8a0fdca6fd.js": "/TIMCoin/precache-manifest.b8e69884cd7876f716399b8a0fdca6fd.js",
+    "service-worker.js": "/TIMCoin/service-worker.js"
+  }
+}
