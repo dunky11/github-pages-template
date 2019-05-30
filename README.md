@@ -13,7 +13,7 @@ sudo apt install nodejs npm
 3. Install dependencies
 ```console
 cd github-pages-template
-npm i
+npm install
 ```
 4. Start local server
 ```console
