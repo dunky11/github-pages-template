@@ -8,7 +8,7 @@ git clone https://github.com/dunky11/github-pages-template/
 ```
 2. Install node.js
 ```console
-sudo apt install nodejs npm
+sudo apt install nodejs
 ```
 3. Install dependencies
 ```console
