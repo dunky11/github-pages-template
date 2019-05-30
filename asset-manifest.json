@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/TIMCoin/static/js/main.564cba48.chunk.js",
-    "main.js.map": "/TIMCoin/static/js/main.564cba48.chunk.js.map",
-    "runtime~main.js": "/TIMCoin/static/js/runtime~main.4882c7fe.js",
-    "runtime~main.js.map": "/TIMCoin/static/js/runtime~main.4882c7fe.js.map",
-    "static/js/2.c41b3d90.chunk.js": "/TIMCoin/static/js/2.c41b3d90.chunk.js",
-    "static/js/2.c41b3d90.chunk.js.map": "/TIMCoin/static/js/2.c41b3d90.chunk.js.map",
-    "index.html": "/TIMCoin/index.html",
-    "precache-manifest.b8e69884cd7876f716399b8a0fdca6fd.js": "/TIMCoin/precache-manifest.b8e69884cd7876f716399b8a0fdca6fd.js",
-    "service-worker.js": "/TIMCoin/service-worker.js"
+    "main.js": "/github-pages-template/static/js/main.564cba48.chunk.js",
+    "main.js.map": "/github-pages-template/static/js/main.564cba48.chunk.js.map",
+    "runtime~main.js": "/github-pages-template/static/js/runtime~main.1b78eea0.js",
+    "runtime~main.js.map": "/github-pages-template/static/js/runtime~main.1b78eea0.js.map",
+    "static/js/2.c41b3d90.chunk.js": "/github-pages-template/static/js/2.c41b3d90.chunk.js",
+    "static/js/2.c41b3d90.chunk.js.map": "/github-pages-template/static/js/2.c41b3d90.chunk.js.map",
+    "index.html": "/github-pages-template/index.html",
+    "precache-manifest.4ff1419b345a682e1bb61c65204aa219.js": "/github-pages-template/precache-manifest.4ff1419b345a682e1bb61c65204aa219.js",
+    "service-worker.js": "/github-pages-template/service-worker.js"
   }
 }
