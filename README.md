@@ -19,3 +19,15 @@ npm install
 ```console
 npm start
 ```
+### Usage
+You can start editing files now, changes will automatically refresh your webpage. Inside config.js you can set basic configuration. Before you deploy your project to github-pages be sure to edit your package.json so "name" and "homepage" matches your projects.
+
+### Deployment
+1. Compile your project
+```console
+npm run build
+```
+2. Push your compiled project to the gh-pages branch
+```console
+npm run deploy
+```
