@@ -1,5 +1,5 @@
 # github-pages-template
-Template which i use to build fast github pages using node.js + react + material-ui
+Template which I use to build fast github pages using node.js + react + material-ui
 
 ### Installation
 1. Clone this repository
